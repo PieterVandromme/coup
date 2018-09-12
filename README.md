@@ -3,6 +3,7 @@
 Please find here the results of the coding challenge:
 
 [R Markdown assignment](assignment.Rmd)
+
 [HTML output](assignment.html)
 
 Coding Challenge:
