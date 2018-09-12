@@ -1,6 +1,7 @@
 ---
 title: "Coup Coding Challenge"
 output:
+  md_document:
   html_document:
     number_sections: true
     theme: paper
