@@ -2,9 +2,8 @@
 
 Please find here the results of the coding challenge:
 
-[R Markdown assignment](assignment.Rmd)
+[Markdown assignment](assignment.md)
 
-[HTML output](assignment.html)
 
 Coding Challenge:
 
