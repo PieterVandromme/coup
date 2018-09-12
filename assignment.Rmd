@@ -1,12 +1,6 @@
 ---
 title: "Coup Coding Challenge"
-output:
-  md_document:
-  html_document:
-    number_sections: true
-    theme: paper
-    highlight: monochrome
-    code_folding: show
+output: github_document
 author: Pieter Vandromme
 ---
 
